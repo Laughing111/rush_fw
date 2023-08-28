@@ -1,0 +1,47 @@
+[
+  {
+    "FileName": "aaa_config.bd",
+    "MD5": "0488898388C7F2A5CEB2ABF3C8E77CA2",
+    "SizeKB": 2.02539063
+  },
+  {
+    "FileName": "aaa_cube1.bd",
+    "MD5": "44138DA199E9AEEB33B2F4BBCF354EBC",
+    "SizeKB": 47.6035156
+  },
+  {
+    "FileName": "aaa_loading.bd",
+    "MD5": "FA19D6C0F2013ED17988BCECACA495FE",
+    "SizeKB": 355.9004
+  },
+  {
+    "FileName": "aaa_login.bd",
+    "MD5": "215ABC468C8079AF5720909BEB9D3957",
+    "SizeKB": 26.0410156
+  },
+  {
+    "FileName": "aaa_scene01.bd",
+    "MD5": "89979D8C984D10D90F8EF431588206AB",
+    "SizeKB": 1.66601563
+  },
+  {
+    "FileName": "aaa_scene02.bd",
+    "MD5": "FEBAAA39F7AC924E33DA703874251D3D",
+    "SizeKB": 1.68164063
+  },
+  {
+    "FileName": "aaa_shop.bd",
+    "MD5": "72F9BB0E29D2AF0CF39FC8B541E590A4",
+    "SizeKB": 342.369141
+  },
+  {
+    "FileName": "aaa_totalassets.bd",
+    "MD5": "F5A7EEA593325B1072A20ED6D2260465",
+    "SizeKB": 47.7285156
+  },
+  {
+    "FileName": "iOS",
+    "MD5": "39C9D667E9E5C735ABB2D3820FE2F8C7",
+    "SizeKB": 1.79101563
+  }
+]

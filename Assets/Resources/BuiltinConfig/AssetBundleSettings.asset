@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd7e8661678062940be774c288068ecf, type: 3}
+  m_Name: AssetBundleSettings
+  m_EditorClassIdentifier: 
+  AssetBundleDownloadUrl: http://192.168.71.63
+  EncryptToggle:
+    IsEncrypt: 0
+    EncryptKey: testencrypt
+  CurBuildTarget: 9
+  BuildOptions: 256
+  BundleHotType: 1
+  BundleDownloadMaxThread: 3
+  AssetLoadMode: 1

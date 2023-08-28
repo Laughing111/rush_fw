@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d26c30ce38711847852abc39ee5d700, type: 3}
+  m_Name: AssetBundleConfig
+  m_EditorClassIdentifier: 
+  AssetBundleConfig:
+  - BundleId: 0
+    ModuleName: AAA
+    IsBuild: 0
+    LastClickTime: 6.0558453
+    PrefabPath:
+    - Assets/Res/Prefabs
+    RootFolderPath:
+    - Assets/Res/Scene
+    - Assets/Res/Texture
+    SingleBundlePath:
+    - ABName: TotalAssets
+      BundlePath: Assets/Res/TotalAssets
+  - BundleId: 0
+    ModuleName: BBB
+    IsBuild: 0
+    LastClickTime: 1727.1586
+    PrefabPath:
+    - Assets/Res/BuiltinPrefabs
+    RootFolderPath: []
+    SingleBundlePath: []
+  - BundleId: 0
+    ModuleName: CCC
+    IsBuild: 0
+    LastClickTime: 4908.8115
+    PrefabPath: []
+    RootFolderPath: []
+    SingleBundlePath: []

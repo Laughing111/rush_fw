@@ -1,0 +1,160 @@
+{
+  "BundleInfoList": [
+    {
+      "Path": "Assets/Res/Prefabs/Cube1.prefab",
+      "Crc": 3035144056,
+      "BundleName": "aaa_cube1.bd",
+      "AssetName": "Cube1.prefab",
+      "BundleDependencies": []
+    },
+    {
+      "Path": "Assets/Res/Texture/Loading/LoginButton.png",
+      "Crc": 2909428467,
+      "BundleName": "aaa_loading.bd",
+      "AssetName": "LoginButton.png",
+      "BundleDependencies": []
+    },
+    {
+      "Path": "Assets/Res/Texture/Loading/图层 11.png",
+      "Crc": 3369396114,
+      "BundleName": "aaa_loading.bd",
+      "AssetName": "图层 11.png",
+      "BundleDependencies": []
+    },
+    {
+      "Path": "Assets/Res/Texture/Loading/圆角矩形 1 拷贝.png",
+      "Crc": 3604077006,
+      "BundleName": "aaa_loading.bd",
+      "AssetName": "圆角矩形 1 拷贝.png",
+      "BundleDependencies": []
+    },
+    {
+      "Path": "Assets/Res/Texture/Loading/圆角矩形 1.png",
+      "Crc": 3965764736,
+      "BundleName": "aaa_loading.bd",
+      "AssetName": "圆角矩形 1.png",
+      "BundleDependencies": []
+    },
+    {
+      "Path": "Assets/Res/Texture/Loading/圆角矩形 3.png",
+      "Crc": 2527107040,
+      "BundleName": "aaa_loading.bd",
+      "AssetName": "圆角矩形 3.png",
+      "BundleDependencies": []
+    },
+    {
+      "Path": "Assets/Res/Texture/Loading/弹窗.png",
+      "Crc": 3052863637,
+      "BundleName": "aaa_loading.bd",
+      "AssetName": "弹窗.png",
+      "BundleDependencies": []
+    },
+    {
+      "Path": "Assets/Res/Texture/Loading/椭圆 3.png",
+      "Crc": 594605646,
+      "BundleName": "aaa_loading.bd",
+      "AssetName": "椭圆 3.png",
+      "BundleDependencies": []
+    },
+    {
+      "Path": "Assets/Res/Texture/Loading/背景.png",
+      "Crc": 3378795727,
+      "BundleName": "aaa_loading.bd",
+      "AssetName": "背景.png",
+      "BundleDependencies": []
+    },
+    {
+      "Path": "Assets/Res/Prefabs/Login.prefab",
+      "Crc": 104744316,
+      "BundleName": "aaa_login.bd",
+      "AssetName": "Login.prefab",
+      "BundleDependencies": [
+        "aaa_loading.bd"
+      ]
+    },
+    {
+      "Path": "Assets/Res/Scene/Scene01/scene.prefab",
+      "Crc": 3005257821,
+      "BundleName": "aaa_scene01.bd",
+      "AssetName": "scene.prefab",
+      "BundleDependencies": []
+    },
+    {
+      "Path": "Assets/Res/Scene/Scene02/scene.prefab",
+      "Crc": 3477192070,
+      "BundleName": "aaa_scene02.bd",
+      "AssetName": "scene.prefab",
+      "BundleDependencies": []
+    },
+    {
+      "Path": "Assets/Res/Texture/Shop/图层 6.png",
+      "Crc": 3050322802,
+      "BundleName": "aaa_shop.bd",
+      "AssetName": "图层 6.png",
+      "BundleDependencies": []
+    },
+    {
+      "Path": "Assets/Res/Texture/Shop/左列表.png",
+      "Crc": 758308587,
+      "BundleName": "aaa_shop.bd",
+      "AssetName": "左列表.png",
+      "BundleDependencies": []
+    },
+    {
+      "Path": "Assets/Res/Texture/Shop/未选中 金币赠送.png",
+      "Crc": 205702213,
+      "BundleName": "aaa_shop.bd",
+      "AssetName": "未选中 金币赠送.png",
+      "BundleDependencies": []
+    },
+    {
+      "Path": "Assets/Res/Texture/Shop/矩形 1 拷贝 6.png",
+      "Crc": 767811569,
+      "BundleName": "aaa_shop.bd",
+      "AssetName": "矩形 1 拷贝 6.png",
+      "BundleDependencies": []
+    },
+    {
+      "Path": "Assets/Res/Texture/Shop/矩形 1.png",
+      "Crc": 108182589,
+      "BundleName": "aaa_shop.bd",
+      "AssetName": "矩形 1.png",
+      "BundleDependencies": []
+    },
+    {
+      "Path": "Assets/Res/Texture/Shop/组 145 拷贝 4.png",
+      "Crc": 705228839,
+      "BundleName": "aaa_shop.bd",
+      "AssetName": "组 145 拷贝 4.png",
+      "BundleDependencies": []
+    },
+    {
+      "Path": "Assets/Res/Texture/Shop/返回.png",
+      "Crc": 934317776,
+      "BundleName": "aaa_shop.bd",
+      "AssetName": "返回.png",
+      "BundleDependencies": []
+    },
+    {
+      "Path": "Assets/Res/Texture/Shop/选中 银行存款.png",
+      "Crc": 1645836915,
+      "BundleName": "aaa_shop.bd",
+      "AssetName": "选中 银行存款.png",
+      "BundleDependencies": []
+    },
+    {
+      "Path": "Assets/Res/TotalAssets/Cube2.prefab",
+      "Crc": 231131516,
+      "BundleName": "aaa_totalassets.bd",
+      "AssetName": "Cube2.prefab",
+      "BundleDependencies": []
+    },
+    {
+      "Path": "Assets/Res/TotalAssets/Cube3.prefab",
+      "Crc": 3245132258,
+      "BundleName": "aaa_totalassets.bd",
+      "AssetName": "Cube3.prefab",
+      "BundleDependencies": []
+    }
+  ]
+}
